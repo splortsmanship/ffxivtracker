@@ -9,6 +9,7 @@ body {
 }
 h2 {
   color: #191516;
+  text-align: center;
 }
 .grid-container {
   display: grid;
@@ -21,5 +22,7 @@ h2 {
   background-color: #90D0AA;
   border-radius: 5px;
 }
-
+p {
+  color: #191516;
+}
 /* other colour: #90D0AA */
